@@ -1,6 +1,6 @@
-pyrogram~=1.2.9
+pyrogram~=2.0.106
 TgCrypto
-SQLAlchemy~=1.4.21
+SQLAlchemy~=2.0.29
 psycopg2
-humanize~=3.11.0
+humanize~=4.9.0
 requests~=2.25.1
