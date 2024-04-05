@@ -21,6 +21,7 @@
       {
          "options": {
             "version": "12"
+         "heroku addons:create youraddon --foo=bar --bar foo --baz"
          },
       }
    ],
