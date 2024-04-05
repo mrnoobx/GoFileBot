@@ -20,9 +20,9 @@
   "addons": [
       {
          "options": {
-            "version": "12"
-         "heroku addons:create youraddon --foo=bar --bar foo --baz"
+            "version": "16"
          },
+         "plan": "heroku-postgresql"
       }
    ],
   "repository": "https://github.com/StarkBotsIndustries/GoFileBot",
